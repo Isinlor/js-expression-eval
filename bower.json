@@ -1,0 +1,25 @@
+{
+  "name": "js-expression-eval",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Isinlor/js-expression-eval",
+  "authors": [
+    "Silentmatt <email@matthewcrumley.com>",
+    "Isinlor <isinlor@gmail.com>"
+  ],
+  "description": "JavaScript Expression Evaluator",
+  "main": "parser.js",
+  "keywords": [
+    "math",
+    "parser",
+    "expression",
+    "evaluator"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
